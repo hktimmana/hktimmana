@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Big Data, Data Engineering,Pyspark, Airflow, Power BI, Streaming, Google Cloud, AWS ,Azure**
 
-- 📫 How to reach me **hktimmana@gmail.com**
+- 📫 How to reach me **krishna2007me@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
