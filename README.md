@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Inelligence**
 
-- 💬 Ask me about **Big Data, Data Engineering,Pyspark,Streaming, Google Cloud, AWS ,Azure**
+- 💬 Ask me about **Big Data, Data Engineering,Pyspark, Airflow, Power BI, Streaming, Google Cloud, AWS ,Azure**
 
 - 📫 How to reach me **hktimmana@gmail.com**
 
